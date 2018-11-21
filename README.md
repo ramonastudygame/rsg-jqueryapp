@@ -1,2 +1,3 @@
-# rsg-jqueryapp
-My first experience making an app
+# RSGJQUERYAPP
+
+This is just the beginning.
